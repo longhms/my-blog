@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "Giới thiệu về Next.js 15 và React 19",
+    "slug": "gioi-thieu-nextjs-15",
+    "excerpt": "Khám phá các tính năng mới nhất trong Next.js 15, bao gồm React 19, Server Components và hiệu suất được cải thiện.",
+    "content": "Next.js 15 mang đến những nâng cấp đáng kể cho hệ sinh thái React. Với sự tích hợp chặt chẽ của React 19, giờ đây chúng ta có thể sử dụng các hooks mới như `use`, `useFormStatus`, và `useOptimistic` trực tiếp trong các ứng dụng Web.\n\n### Tại sao nên cập nhật?\n1. **Hiệu năng**: Quá trình hydrat hóa nhanh hơn.\n2. **DX**: Công cụ phát triển được cải thiện.\n3. **Cộng đồng**: Hệ sinh thái các thư viện đang chuyển dịch mạnh mẽ sang React 19.",
+    "coverImage": "https://images.unsplash.com/photo-1618477247222-acbdb0e159b3?w=800&q=80",
+    "author": {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "avatar": "https://i.pravatar.cc/150?u=1",
+      "bio": "Full-stack Developer & Tech Blogger"
+    },
+    "category": {
+      "id": "1",
+      "name": "Tutorial",
+      "slug": "tutorial"
+    },
+    "publishedAt": "2024-01-15T10:00:00Z",
+    "tags": ["nextjs", "react", "tutorial"],
+    "readingTime": 5
+  },
+  {
+    "id": "2",
+    "title": "Làm chủ Tailwind CSS 4",
+    "slug": "lam-chu-tailwind-css-4",
+    "excerpt": "Tailwind CSS 4 là một bước nhảy vọt với engine hoàn toàn mới và cấu hình dựa trên CSS.",
+    "content": "Tailwind CSS 4.0 giới thiệu một engine Zero-runtime CSS mới được viết bằng Rust. Điểm nổi bật nhất là khả năng cấu hình Tailwind hoàn toàn trong tệp CSS của bạn mà không cần tệp JavaScript cấu hình bên ngoài.\n\n```css\n@import \"tailwindcss\";\n\n@theme {\n  --color-primary: #3b82f6;\n}\n```\n\nĐiều này làm cho quá trình phát triển trở nên trực quan và nhanh chóng hơn bao giờ hết.",
+    "coverImage": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=800&q=80",
+    "author": {
+      "id": "2",
+      "name": "Trần Thị B",
+      "avatar": "https://i.pravatar.cc/150?u=2",
+      "bio": "UI/UX Designer & Frontend Enthusiast"
+    },
+    "category": {
+      "id": "2",
+      "name": "Design",
+      "slug": "design"
+    },
+    "publishedAt": "2024-01-20T14:30:00Z",
+    "tags": ["css", "tailwind", "design"],
+    "readingTime": 4
+  },
+  {
+    "id": "3",
+    "title": "Tại sao TypeScript là bắt buộc?",
+    "slug": "tai-sao-typescript-bat-buoc",
+    "excerpt": "Trong phát triển web hiện đại, TypeScript giúp giảm thiểu lỗi runtime và cải thiện trải nghiệm lập trình viên.",
+    "content": "TypeScript không chỉ là việc thêm 'kiểu dữ liệu' vào JavaScript. Nó là một hệ thống cung cấp sự tin cậy.\n\nKhi làm việc trong một nhóm lớn hoặc dự án phức tạp, TypeScript hoạt động như một tài liệu sống giúp mọi người hiểu được cấu trúc dữ liệu đang di chuyển trong ứng dụng.",
+    "coverImage": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=800&q=80",
+    "author": {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "avatar": "https://i.pravatar.cc/150?u=1",
+      "bio": "Full-stack Developer & Tech Blogger"
+    },
+    "category": {
+      "id": "3",
+      "name": "Engineering",
+      "slug": "engineering"
+    },
+    "publishedAt": "2024-02-01T08:15:00Z",
+    "tags": ["typescript", "javascript", "coding"],
+    "readingTime": 6
+  }
+]
